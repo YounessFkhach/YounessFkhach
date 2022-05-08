@@ -4,7 +4,7 @@
 
 🔭 I am currently working at [Fluicity](get.flui.city/) as a fullstack developer (Ruby on Rails/React) to build a saas solution for citizen participation and community consultation.
 
-📫 Contact me: [Website](fkhach.me) | [LinkedIn](https://www.linkedin.com/in/youness-fkhach/) | [Instagram](https://www.instagram.com/wild_cryptographer/) | [Email](youness@fkhach.me)
+📫 Contact me: [Website](https://fkhach.me) | [LinkedIn](https://www.linkedin.com/in/youness-fkhach/) | [Instagram](https://www.instagram.com/wild_cryptographer/) | [Email](youness@fkhach.me)
 
 <!--
 **YounessFkhach/YounessFkhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
