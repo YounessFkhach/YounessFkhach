@@ -2,7 +2,7 @@
 
 💬 I am <strong>Youness Fkhach</strong>, A fullstack software engineer based in Morocco. With 4 years of professional experience in web development and a Master’s degree in computer science.
 
-🔭 I am currently working at [Fluicity](get.flui.city/) as a fullstack developer (Ruby on Rails/React) to build a saas solution for citizen participation and community consultation.
+🔭 I am currently working at [Fluicity](get.flui.city/) as a fullstack developer (Ruby on Rails/React) to build a SaaS solution for citizen participation and community consultation.
 
 📫 Contact me: [Website](https://fkhach.me) | [LinkedIn](https://www.linkedin.com/in/youness-fkhach/) | [Instagram](https://www.instagram.com/wild_cryptographer/) | [Email](mailto:youness@fkhach.me)
 
