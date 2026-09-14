@@ -1,7 +1,9 @@
-# 👨‍💻 Pragmatic, product-oriented fullstack engineer.
+# Youness Fkhach
 
-I am <strong>Youness Fkhach</strong>, a full-stack engineer with a product-oriented mindset, I'm driven by a passion for developing high-quality software that solves real-world problems. With a Master's degree in computer science and five years of experience in web development, I've honed my skills in Ruby on Rails and React.
+I'm a senior full-stack engineer with 8+ years building products on Ruby on Rails and React. I hold a Master's degree in Computer Science and focus on performance, backend architecture, and AI-assisted developer tooling.
 
-Currently, I'm a full-stack developer at Fluicity, where I'm proud to be working on a SaaS solution for citizen participation and community consultation. Leveraging my expertise in Ruby on Rails and React, I'm committed to using technology to help people make their voices heard and bring about positive change. I'm excited to be part of a team that shares my values and vision for a more engaged, participatory society.
+Currently, I'm at [RingTwice](https://fkhach.me/work/ringtwice) working on Rails 8 performance, API optimization, and automated workflows.
 
-📫 Contact me: [Website](https://fkhach.me) | [LinkedIn](https://www.linkedin.com/in/youness-fkhach/) | [Email](mailto:youness@fkhach.me)
+- **Site:** [fkhach.me](https://fkhach.me)
+- **LinkedIn:** [youness-fkhach](https://www.linkedin.com/in/youness-fkhach/)
+- **Email:** [youness@fkhach.me](mailto:youness@fkhach.me)
